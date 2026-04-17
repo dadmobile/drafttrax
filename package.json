@@ -1,0 +1,10 @@
+{
+  "name": "drafttrax",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.js",
+    "serve": "python3 -m http.server 8000"
+  }
+}

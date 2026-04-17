@@ -1,0 +1,4873 @@
+{
+  "generatedAt": "2026-04-17T23:39:21.767Z",
+  "season": "20252026",
+  "series": [
+    {
+      "id": "A",
+      "label": "Series A",
+      "teams": [
+        {
+          "abbrev": "BUF",
+          "name": "Buffalo Sabres",
+          "seed": "D1",
+          "players": [
+            {
+              "id": 8479420,
+              "name": "Tage Thompson",
+              "pos": "C",
+              "gp": 81,
+              "g": 40,
+              "a": 41,
+              "pts": 81
+            },
+            {
+              "id": 8480839,
+              "name": "Rasmus Dahlin",
+              "pos": "D",
+              "gp": 77,
+              "g": 19,
+              "a": 55,
+              "pts": 74
+            },
+            {
+              "id": 8477949,
+              "name": "Alex Tuch",
+              "pos": "R",
+              "gp": 79,
+              "g": 33,
+              "a": 33,
+              "pts": 66
+            },
+            {
+              "id": 8480802,
+              "name": "Ryan McLeod",
+              "pos": "C",
+              "gp": 81,
+              "g": 14,
+              "a": 40,
+              "pts": 54
+            },
+            {
+              "id": 8482659,
+              "name": "Josh Doan",
+              "pos": "R",
+              "gp": 82,
+              "g": 25,
+              "a": 27,
+              "pts": 52
+            },
+            {
+              "id": 8482097,
+              "name": "Jack Quinn",
+              "pos": "R",
+              "gp": 82,
+              "g": 20,
+              "a": 31,
+              "pts": 51
+            },
+            {
+              "id": 8475722,
+              "name": "Jason Zucker",
+              "pos": "L",
+              "gp": 62,
+              "g": 24,
+              "a": 21,
+              "pts": 45
+            },
+            {
+              "id": 8484145,
+              "name": "Zach Benson",
+              "pos": "L",
+              "gp": 65,
+              "g": 13,
+              "a": 30,
+              "pts": 43
+            },
+            {
+              "id": 8481524,
+              "name": "Bowen Byram",
+              "pos": "D",
+              "gp": 82,
+              "g": 11,
+              "a": 31,
+              "pts": 42
+            },
+            {
+              "id": 8480807,
+              "name": "Mattias Samuelsson",
+              "pos": "D",
+              "gp": 78,
+              "g": 13,
+              "a": 28,
+              "pts": 41
+            },
+            {
+              "id": 8481522,
+              "name": "Peyton Krebs",
+              "pos": "C",
+              "gp": 82,
+              "g": 12,
+              "a": 27,
+              "pts": 39
+            },
+            {
+              "id": 8480064,
+              "name": "Josh Norris",
+              "pos": "C",
+              "gp": 44,
+              "g": 13,
+              "a": 21,
+              "pts": 34
+            },
+            {
+              "id": 8482671,
+              "name": "Owen Power",
+              "pos": "D",
+              "gp": 81,
+              "g": 8,
+              "a": 21,
+              "pts": 29
+            },
+            {
+              "id": 8483500,
+              "name": "Noah Ostlund",
+              "pos": "C",
+              "gp": 60,
+              "g": 11,
+              "a": 16,
+              "pts": 27
+            },
+            {
+              "id": 8479378,
+              "name": "Logan Stanley",
+              "pos": "D",
+              "gp": 76,
+              "g": 9,
+              "a": 17,
+              "pts": 26
+            },
+            {
+              "id": 8475842,
+              "name": "Sam Carrick",
+              "pos": "C",
+              "gp": 73,
+              "g": 9,
+              "a": 7,
+              "pts": 16
+            },
+            {
+              "id": 8476871,
+              "name": "Tanner Pearson",
+              "pos": "L",
+              "gp": 56,
+              "g": 7,
+              "a": 8,
+              "pts": 15
+            },
+            {
+              "id": 8479359,
+              "name": "Beck Malenstyn",
+              "pos": "L",
+              "gp": 81,
+              "g": 7,
+              "a": 7,
+              "pts": 14
+            },
+            {
+              "id": 8479982,
+              "name": "Conor Timmins",
+              "pos": "D",
+              "gp": 39,
+              "g": 0,
+              "a": 8,
+              "pts": 8
+            },
+            {
+              "id": 8474568,
+              "name": "Luke Schenn",
+              "pos": "D",
+              "gp": 50,
+              "g": 1,
+              "a": 6,
+              "pts": 7
+            },
+            {
+              "id": 8482896,
+              "name": "Tyson Kozak",
+              "pos": "C",
+              "gp": 46,
+              "g": 2,
+              "a": 4,
+              "pts": 6
+            },
+            {
+              "id": 8484305,
+              "name": "Zach Metsa",
+              "pos": "D",
+              "gp": 43,
+              "g": 2,
+              "a": 4,
+              "pts": 6
+            },
+            {
+              "id": 8478413,
+              "name": "Jordan Greenway",
+              "pos": "L",
+              "gp": 40,
+              "g": 1,
+              "a": 5,
+              "pts": 6
+            },
+            {
+              "id": 8483468,
+              "name": "Jiri Kulich",
+              "pos": "C",
+              "gp": 12,
+              "g": 3,
+              "a": 2,
+              "pts": 5
+            },
+            {
+              "id": 8482623,
+              "name": "Josh Dunne",
+              "pos": "C",
+              "gp": 34,
+              "g": 1,
+              "a": 3,
+              "pts": 4
+            },
+            {
+              "id": 8484797,
+              "name": "Konsta Helenius",
+              "pos": "C",
+              "gp": 9,
+              "g": 1,
+              "a": 3,
+              "pts": 4
+            },
+            {
+              "id": 8480891,
+              "name": "Michael Kesselring",
+              "pos": "D",
+              "gp": 34,
+              "g": 0,
+              "a": 2,
+              "pts": 2
+            },
+            {
+              "id": 8479312,
+              "name": "Alex Lyon",
+              "pos": "G",
+              "gp": 36,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8481551,
+              "name": "Colten Ellis",
+              "pos": "G",
+              "gp": 16,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8480045,
+              "name": "Ukko-Pekka Luukkonen",
+              "pos": "G",
+              "gp": 35,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8479941,
+              "name": "Justin Danforth",
+              "pos": "R",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8477419,
+              "name": "Mason Geertsen",
+              "pos": "L",
+              "gp": 5,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481564,
+              "name": "Ryan Johnson",
+              "pos": "D",
+              "gp": 3,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482479,
+              "name": "Trevor Kuntar",
+              "pos": "C",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        },
+        {
+          "abbrev": "BOS",
+          "name": "Boston Bruins",
+          "seed": "WC1",
+          "players": [
+            {
+              "id": 8477956,
+              "name": "David Pastrnak",
+              "pos": "R",
+              "gp": 77,
+              "g": 29,
+              "a": 71,
+              "pts": 100
+            },
+            {
+              "id": 8479987,
+              "name": "Morgan Geekie",
+              "pos": "C",
+              "gp": 81,
+              "g": 39,
+              "a": 29,
+              "pts": 68
+            },
+            {
+              "id": 8478401,
+              "name": "Pavel Zacha",
+              "pos": "C",
+              "gp": 78,
+              "g": 30,
+              "a": 35,
+              "pts": 65
+            },
+            {
+              "id": 8479325,
+              "name": "Charlie McAvoy",
+              "pos": "D",
+              "gp": 69,
+              "g": 11,
+              "a": 50,
+              "pts": 61
+            },
+            {
+              "id": 8478042,
+              "name": "Viktor Arvidsson",
+              "pos": "L",
+              "gp": 69,
+              "g": 25,
+              "a": 29,
+              "pts": 54
+            },
+            {
+              "id": 8477496,
+              "name": "Elias Lindholm",
+              "pos": "C",
+              "gp": 69,
+              "g": 17,
+              "a": 31,
+              "pts": 48
+            },
+            {
+              "id": 8479999,
+              "name": "Casey Mittelstadt",
+              "pos": "C",
+              "gp": 71,
+              "g": 15,
+              "a": 27,
+              "pts": 42
+            },
+            {
+              "id": 8483489,
+              "name": "Fraser Minten",
+              "pos": "C",
+              "gp": 82,
+              "g": 17,
+              "a": 18,
+              "pts": 35
+            },
+            {
+              "id": 8482177,
+              "name": "Marat Khusnutdinov",
+              "pos": "C",
+              "gp": 77,
+              "g": 15,
+              "a": 18,
+              "pts": 33
+            },
+            {
+              "id": 8482511,
+              "name": "Mason Lohrei",
+              "pos": "D",
+              "gp": 73,
+              "g": 7,
+              "a": 19,
+              "pts": 26
+            },
+            {
+              "id": 8476854,
+              "name": "Hampus Lindholm",
+              "pos": "D",
+              "gp": 67,
+              "g": 5,
+              "a": 21,
+              "pts": 26
+            },
+            {
+              "id": 8480355,
+              "name": "Mark Kastelic",
+              "pos": "C",
+              "gp": 82,
+              "g": 12,
+              "a": 10,
+              "pts": 22
+            },
+            {
+              "id": 8476374,
+              "name": "Sean Kuraly",
+              "pos": "C",
+              "gp": 82,
+              "g": 6,
+              "a": 16,
+              "pts": 22
+            },
+            {
+              "id": 8479661,
+              "name": "Tanner Jeannot",
+              "pos": "L",
+              "gp": 77,
+              "g": 6,
+              "a": 16,
+              "pts": 22
+            },
+            {
+              "id": 8477507,
+              "name": "Nikita Zadorov",
+              "pos": "D",
+              "gp": 81,
+              "g": 2,
+              "a": 20,
+              "pts": 22
+            },
+            {
+              "id": 8479591,
+              "name": "Michael Eyssimont",
+              "pos": "C",
+              "gp": 56,
+              "g": 8,
+              "a": 10,
+              "pts": 18
+            },
+            {
+              "id": 8482634,
+              "name": "Alex Steeves",
+              "pos": "C",
+              "gp": 43,
+              "g": 9,
+              "a": 7,
+              "pts": 16
+            },
+            {
+              "id": 8480035,
+              "name": "Henri Jokiharju",
+              "pos": "D",
+              "gp": 41,
+              "g": 2,
+              "a": 13,
+              "pts": 15
+            },
+            {
+              "id": 8479369,
+              "name": "Andrew Peeke",
+              "pos": "D",
+              "gp": 77,
+              "g": 5,
+              "a": 9,
+              "pts": 14
+            },
+            {
+              "id": 8481219,
+              "name": "Jonathan Aspirot",
+              "pos": "D",
+              "gp": 61,
+              "g": 3,
+              "a": 10,
+              "pts": 13
+            },
+            {
+              "id": 8482117,
+              "name": "Lukas Reichel",
+              "pos": "L",
+              "gp": 29,
+              "g": 3,
+              "a": 5,
+              "pts": 8
+            },
+            {
+              "id": 8480887,
+              "name": "Jordan Harris",
+              "pos": "D",
+              "gp": 8,
+              "g": 1,
+              "a": 2,
+              "pts": 3
+            },
+            {
+              "id": 8483505,
+              "name": "Matthew Poitras",
+              "pos": "C",
+              "gp": 3,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8479362,
+              "name": "Riley Tufte",
+              "pos": "L",
+              "gp": 4,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8485395,
+              "name": "James Hagens",
+              "pos": "C",
+              "gp": 2,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8481599,
+              "name": "Victor Soderstrom",
+              "pos": "D",
+              "gp": 8,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8483567,
+              "name": "Georgii Merkulov",
+              "pos": "C",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8480280,
+              "name": "Jeremy Swayman",
+              "pos": "G",
+              "gp": 55,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8476914,
+              "name": "Joonas Korpisalo",
+              "pos": "G",
+              "gp": 31,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481712,
+              "name": "Matěj  Blümel",
+              "pos": "R",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8480828,
+              "name": "Michael Callahan",
+              "pos": "D",
+              "gp": 5,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8480022,
+              "name": "Michael DiPietro",
+              "pos": "G",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "label": "Series B",
+      "teams": [
+        {
+          "abbrev": "TBL",
+          "name": "Tampa Bay Lightning",
+          "seed": "D2",
+          "players": [
+            {
+              "id": 8476453,
+              "name": "Nikita Kucherov",
+              "pos": "R",
+              "gp": 76,
+              "g": 44,
+              "a": 86,
+              "pts": 130
+            },
+            {
+              "id": 8477404,
+              "name": "Jake Guentzel",
+              "pos": "C",
+              "gp": 81,
+              "g": 38,
+              "a": 50,
+              "pts": 88
+            },
+            {
+              "id": 8479542,
+              "name": "Brandon Hagel",
+              "pos": "L",
+              "gp": 71,
+              "g": 36,
+              "a": 38,
+              "pts": 74
+            },
+            {
+              "id": 8478178,
+              "name": "Darren Raddysh",
+              "pos": "D",
+              "gp": 73,
+              "g": 22,
+              "a": 48,
+              "pts": 70
+            },
+            {
+              "id": 8478519,
+              "name": "Anthony Cirelli",
+              "pos": "C",
+              "gp": 71,
+              "g": 23,
+              "a": 29,
+              "pts": 52
+            },
+            {
+              "id": 8478010,
+              "name": "Brayden Point",
+              "pos": "C",
+              "gp": 63,
+              "g": 18,
+              "a": 32,
+              "pts": 50
+            },
+            {
+              "id": 8470621,
+              "name": "Corey Perry",
+              "pos": "R",
+              "gp": 72,
+              "g": 17,
+              "a": 20,
+              "pts": 37
+            },
+            {
+              "id": 8482201,
+              "name": "Gage Goncalves",
+              "pos": "C",
+              "gp": 74,
+              "g": 11,
+              "a": 22,
+              "pts": 33
+            },
+            {
+              "id": 8477416,
+              "name": "Oliver Bjorkstrand",
+              "pos": "R",
+              "gp": 80,
+              "g": 12,
+              "a": 20,
+              "pts": 32
+            },
+            {
+              "id": 8482655,
+              "name": "J.J. Moser",
+              "pos": "D",
+              "gp": 79,
+              "g": 7,
+              "a": 22,
+              "pts": 29
+            },
+            {
+              "id": 8480426,
+              "name": "Charle-Edouard D'Astous",
+              "pos": "D",
+              "gp": 70,
+              "g": 6,
+              "a": 23,
+              "pts": 29
+            },
+            {
+              "id": 8476826,
+              "name": "Yanni Gourde",
+              "pos": "C",
+              "gp": 82,
+              "g": 9,
+              "a": 19,
+              "pts": 28
+            },
+            {
+              "id": 8480995,
+              "name": "Pontus Holmberg",
+              "pos": "R",
+              "gp": 70,
+              "g": 11,
+              "a": 11,
+              "pts": 22
+            },
+            {
+              "id": 8474151,
+              "name": "Ryan McDonagh",
+              "pos": "D",
+              "gp": 48,
+              "g": 6,
+              "a": 15,
+              "pts": 21
+            },
+            {
+              "id": 8476878,
+              "name": "Zemgus Girgensons",
+              "pos": "C",
+              "gp": 74,
+              "g": 9,
+              "a": 11,
+              "pts": 20
+            },
+            {
+              "id": 8475167,
+              "name": "Victor Hedman",
+              "pos": "D",
+              "gp": 33,
+              "g": 1,
+              "a": 16,
+              "pts": 17
+            },
+            {
+              "id": 8483752,
+              "name": "Dominic James",
+              "pos": "C",
+              "gp": 43,
+              "g": 7,
+              "a": 8,
+              "pts": 15
+            },
+            {
+              "id": 8477426,
+              "name": "Nick Paul",
+              "pos": "L",
+              "gp": 51,
+              "g": 7,
+              "a": 8,
+              "pts": 15
+            },
+            {
+              "id": 8482929,
+              "name": "Emil Lilleberg",
+              "pos": "D",
+              "gp": 50,
+              "g": 4,
+              "a": 8,
+              "pts": 12
+            },
+            {
+              "id": 8478416,
+              "name": "Erik Cernak",
+              "pos": "D",
+              "gp": 61,
+              "g": 3,
+              "a": 8,
+              "pts": 11
+            },
+            {
+              "id": 8481719,
+              "name": "Max Crozier",
+              "pos": "D",
+              "gp": 35,
+              "g": 1,
+              "a": 9,
+              "pts": 10
+            },
+            {
+              "id": 8477149,
+              "name": "Scott Sabourin",
+              "pos": "R",
+              "gp": 26,
+              "g": 1,
+              "a": 4,
+              "pts": 5
+            },
+            {
+              "id": 8483447,
+              "name": "Conor Geekie",
+              "pos": "C",
+              "gp": 14,
+              "g": 1,
+              "a": 2,
+              "pts": 3
+            },
+            {
+              "id": 8483398,
+              "name": "Declan Carlile",
+              "pos": "D",
+              "gp": 42,
+              "g": 1,
+              "a": 2,
+              "pts": 3
+            },
+            {
+              "id": 8476883,
+              "name": "Andrei Vasilevskiy",
+              "pos": "G",
+              "gp": 58,
+              "g": 0,
+              "a": 2,
+              "pts": 2
+            },
+            {
+              "id": 8482168,
+              "name": "Maxim Groshev",
+              "pos": "D",
+              "gp": 2,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8482070,
+              "name": "Mitchell Chaffee",
+              "pos": "R",
+              "gp": 11,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8477463,
+              "name": "Steven Santini",
+              "pos": "D",
+              "gp": 12,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8477990,
+              "name": "Brandon Halverson",
+              "pos": "G",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482663,
+              "name": "Dylan Duke",
+              "pos": "L",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481592,
+              "name": "Jakob Pelletier",
+              "pos": "L",
+              "gp": 5,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8477992,
+              "name": "Jonas Johansson",
+              "pos": "G",
+              "gp": 25,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481547,
+              "name": "Simon Lundmark",
+              "pos": "D",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        },
+        {
+          "abbrev": "MTL",
+          "name": "Montréal Canadiens",
+          "seed": "D3",
+          "players": [
+            {
+              "id": 8480018,
+              "name": "Nick Suzuki",
+              "pos": "C",
+              "gp": 82,
+              "g": 29,
+              "a": 72,
+              "pts": 101
+            },
+            {
+              "id": 8481540,
+              "name": "Cole Caufield",
+              "pos": "R",
+              "gp": 81,
+              "g": 51,
+              "a": 37,
+              "pts": 88
+            },
+            {
+              "id": 8483457,
+              "name": "Lane Hutson",
+              "pos": "D",
+              "gp": 82,
+              "g": 12,
+              "a": 66,
+              "pts": 78
+            },
+            {
+              "id": 8483515,
+              "name": "Juraj Slafkovský",
+              "pos": "L",
+              "gp": 82,
+              "g": 30,
+              "a": 43,
+              "pts": 73
+            },
+            {
+              "id": 8484984,
+              "name": "Ivan Demidov",
+              "pos": "R",
+              "gp": 82,
+              "g": 19,
+              "a": 43,
+              "pts": 62
+            },
+            {
+              "id": 8480865,
+              "name": "Noah Dobson",
+              "pos": "D",
+              "gp": 80,
+              "g": 12,
+              "a": 35,
+              "pts": 47
+            },
+            {
+              "id": 8482775,
+              "name": "Oliver Kapanen",
+              "pos": "C",
+              "gp": 82,
+              "g": 22,
+              "a": 15,
+              "pts": 37
+            },
+            {
+              "id": 8476875,
+              "name": "Mike Matheson",
+              "pos": "D",
+              "gp": 78,
+              "g": 7,
+              "a": 30,
+              "pts": 37
+            },
+            {
+              "id": 8482737,
+              "name": "Zachary Bolduc",
+              "pos": "R",
+              "gp": 78,
+              "g": 12,
+              "a": 18,
+              "pts": 30
+            },
+            {
+              "id": 8481618,
+              "name": "Alex Newhook",
+              "pos": "C",
+              "gp": 42,
+              "g": 13,
+              "a": 12,
+              "pts": 25
+            },
+            {
+              "id": 8478133,
+              "name": "Jake Evans",
+              "pos": "C",
+              "gp": 68,
+              "g": 12,
+              "a": 12,
+              "pts": 24
+            },
+            {
+              "id": 8476981,
+              "name": "Josh Anderson",
+              "pos": "R",
+              "gp": 72,
+              "g": 14,
+              "a": 9,
+              "pts": 23
+            },
+            {
+              "id": 8475848,
+              "name": "Brendan Gallagher",
+              "pos": "R",
+              "gp": 77,
+              "g": 7,
+              "a": 16,
+              "pts": 23
+            },
+            {
+              "id": 8478851,
+              "name": "Alexandre Carrier",
+              "pos": "D",
+              "gp": 73,
+              "g": 7,
+              "a": 15,
+              "pts": 22
+            },
+            {
+              "id": 8480074,
+              "name": "Alexandre Texier",
+              "pos": "L",
+              "gp": 51,
+              "g": 8,
+              "a": 13,
+              "pts": 21
+            },
+            {
+              "id": 8476479,
+              "name": "Phillip Danault",
+              "pos": "C",
+              "gp": 75,
+              "g": 6,
+              "a": 11,
+              "pts": 17
+            },
+            {
+              "id": 8481523,
+              "name": "Kirby Dach",
+              "pos": "C",
+              "gp": 37,
+              "g": 8,
+              "a": 7,
+              "pts": 15
+            },
+            {
+              "id": 8481593,
+              "name": "Jayden Struble",
+              "pos": "D",
+              "gp": 59,
+              "g": 2,
+              "a": 10,
+              "pts": 12
+            },
+            {
+              "id": 8482087,
+              "name": "Kaiden Guhle",
+              "pos": "D",
+              "gp": 39,
+              "g": 2,
+              "a": 9,
+              "pts": 11
+            },
+            {
+              "id": 8478104,
+              "name": "Sammy Blais",
+              "pos": "L",
+              "gp": 21,
+              "g": 3,
+              "a": 5,
+              "pts": 8
+            },
+            {
+              "id": 8480813,
+              "name": "Joe Veleno",
+              "pos": "C",
+              "gp": 61,
+              "g": 2,
+              "a": 3,
+              "pts": 5
+            },
+            {
+              "id": 8482964,
+              "name": "Arber Xhekaj",
+              "pos": "D",
+              "gp": 65,
+              "g": 1,
+              "a": 3,
+              "pts": 4
+            },
+            {
+              "id": 8483424,
+              "name": "Owen Beck",
+              "pos": "C",
+              "gp": 15,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8483686,
+              "name": "Adam Engstrom",
+              "pos": "D",
+              "gp": 15,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8484220,
+              "name": "David Reinbacher",
+              "pos": "D",
+              "gp": 2,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8484403,
+              "name": "Florian Xhekaj",
+              "pos": "L",
+              "gp": 5,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8483728,
+              "name": "Jared Davidson",
+              "pos": "C",
+              "gp": 10,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8479339,
+              "name": "Patrik Laine",
+              "pos": "L",
+              "gp": 5,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8484170,
+              "name": "Jacob Fowler",
+              "pos": "G",
+              "gp": 17,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482487,
+              "name": "Jakub Dobes",
+              "pos": "G",
+              "gp": 43,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482749,
+              "name": "Joshua Roy",
+              "pos": "R",
+              "gp": 3,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8478470,
+              "name": "Samuel Montembeault",
+              "pos": "G",
+              "gp": 25,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "label": "Series C",
+      "teams": [
+        {
+          "abbrev": "CAR",
+          "name": "Carolina Hurricanes",
+          "seed": "D1",
+          "players": [
+            {
+              "id": 8478427,
+              "name": "Sebastian Aho",
+              "pos": "C",
+              "gp": 79,
+              "g": 27,
+              "a": 53,
+              "pts": 80
+            },
+            {
+              "id": 8477940,
+              "name": "Nikolaj Ehlers",
+              "pos": "L",
+              "gp": 82,
+              "g": 26,
+              "a": 45,
+              "pts": 71
+            },
+            {
+              "id": 8480830,
+              "name": "Andrei Svechnikov",
+              "pos": "R",
+              "gp": 79,
+              "g": 31,
+              "a": 39,
+              "pts": 70
+            },
+            {
+              "id": 8482093,
+              "name": "Seth Jarvis",
+              "pos": "C",
+              "gp": 71,
+              "g": 32,
+              "a": 34,
+              "pts": 66
+            },
+            {
+              "id": 8482809,
+              "name": "Jackson Blake",
+              "pos": "R",
+              "gp": 81,
+              "g": 22,
+              "a": 31,
+              "pts": 53
+            },
+            {
+              "id": 8476906,
+              "name": "Shayne Gostisbehere",
+              "pos": "D",
+              "gp": 55,
+              "g": 13,
+              "a": 37,
+              "pts": 50
+            },
+            {
+              "id": 8475791,
+              "name": "Taylor Hall",
+              "pos": "L",
+              "gp": 80,
+              "g": 18,
+              "a": 30,
+              "pts": 48
+            },
+            {
+              "id": 8482702,
+              "name": "Logan Stankoven",
+              "pos": "C",
+              "gp": 81,
+              "g": 21,
+              "a": 23,
+              "pts": 44
+            },
+            {
+              "id": 8480817,
+              "name": "K'Andre Miller",
+              "pos": "D",
+              "gp": 72,
+              "g": 8,
+              "a": 29,
+              "pts": 37
+            },
+            {
+              "id": 8473533,
+              "name": "Jordan Staal",
+              "pos": "C",
+              "gp": 75,
+              "g": 20,
+              "a": 16,
+              "pts": 36
+            },
+            {
+              "id": 8482100,
+              "name": "Alexander Nikishin",
+              "pos": "D",
+              "gp": 81,
+              "g": 11,
+              "a": 22,
+              "pts": 33
+            },
+            {
+              "id": 8480336,
+              "name": "Sean Walker",
+              "pos": "D",
+              "gp": 81,
+              "g": 9,
+              "a": 22,
+              "pts": 31
+            },
+            {
+              "id": 8476921,
+              "name": "Jordan Martinook",
+              "pos": "L",
+              "gp": 77,
+              "g": 12,
+              "a": 17,
+              "pts": 29
+            },
+            {
+              "id": 8476873,
+              "name": "Mark Jankowski",
+              "pos": "L",
+              "gp": 68,
+              "g": 11,
+              "a": 10,
+              "pts": 21
+            },
+            {
+              "id": 8480762,
+              "name": "Eric Robinson",
+              "pos": "L",
+              "gp": 67,
+              "g": 12,
+              "a": 6,
+              "pts": 18
+            },
+            {
+              "id": 8477478,
+              "name": "William Carrier",
+              "pos": "L",
+              "gp": 70,
+              "g": 7,
+              "a": 11,
+              "pts": 18
+            },
+            {
+              "id": 8478970,
+              "name": "Jalen Chatfield",
+              "pos": "D",
+              "gp": 72,
+              "g": 2,
+              "a": 15,
+              "pts": 17
+            },
+            {
+              "id": 8482911,
+              "name": "Joel Nystrom",
+              "pos": "D",
+              "gp": 38,
+              "g": 1,
+              "a": 9,
+              "pts": 10
+            },
+            {
+              "id": 8480829,
+              "name": "Jesperi Kotkaniemi",
+              "pos": "C",
+              "gp": 42,
+              "g": 2,
+              "a": 7,
+              "pts": 9
+            },
+            {
+              "id": 8476422,
+              "name": "Mike Reilly",
+              "pos": "D",
+              "gp": 42,
+              "g": 1,
+              "a": 8,
+              "pts": 9
+            },
+            {
+              "id": 8476958,
+              "name": "Jaccob Slavin",
+              "pos": "D",
+              "gp": 39,
+              "g": 1,
+              "a": 7,
+              "pts": 8
+            },
+            {
+              "id": 8484203,
+              "name": "Bradly Nadeau",
+              "pos": "L",
+              "gp": 12,
+              "g": 3,
+              "a": 0,
+              "pts": 3
+            },
+            {
+              "id": 8481491,
+              "name": "Noah Philp",
+              "pos": "C",
+              "gp": 17,
+              "g": 2,
+              "a": 1,
+              "pts": 3
+            },
+            {
+              "id": 8484428,
+              "name": "Charles Alexis Legault",
+              "pos": "D",
+              "gp": 12,
+              "g": 1,
+              "a": 1,
+              "pts": 2
+            },
+            {
+              "id": 8475235,
+              "name": "Nicolas Deslauriers",
+              "pos": "L",
+              "gp": 31,
+              "g": 0,
+              "a": 2,
+              "pts": 2
+            },
+            {
+              "id": 8483548,
+              "name": "Brandon Bussi",
+              "pos": "G",
+              "gp": 39,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8484392,
+              "name": "Felix Unger Sorum",
+              "pos": "R",
+              "gp": 1,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8475883,
+              "name": "Frederik Andersen",
+              "pos": "G",
+              "gp": 35,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8482785,
+              "name": "Justin Robidas",
+              "pos": "C",
+              "gp": 2,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8480051,
+              "name": "Cayden Primeau",
+              "pos": "G",
+              "gp": 3,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481562,
+              "name": "Domenick Fensore",
+              "pos": "D",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481004,
+              "name": "Josiah Slavin",
+              "pos": "L",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481611,
+              "name": "Pyotr Kochetkov",
+              "pos": "G",
+              "gp": 9,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482187,
+              "name": "Ronan Seeley",
+              "pos": "D",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8480291,
+              "name": "Skyler Brind'Amour",
+              "pos": "C",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        },
+        {
+          "abbrev": "OTT",
+          "name": "Ottawa Senators",
+          "seed": "WC2",
+          "players": [
+            {
+              "id": 8482116,
+              "name": "Tim Stützle",
+              "pos": "C",
+              "gp": 80,
+              "g": 34,
+              "a": 49,
+              "pts": 83
+            },
+            {
+              "id": 8480208,
+              "name": "Drake Batherson",
+              "pos": "R",
+              "gp": 79,
+              "g": 33,
+              "a": 38,
+              "pts": 71
+            },
+            {
+              "id": 8481528,
+              "name": "Dylan Cozens",
+              "pos": "C",
+              "gp": 82,
+              "g": 28,
+              "a": 31,
+              "pts": 59
+            },
+            {
+              "id": 8480801,
+              "name": "Brady Tkachuk",
+              "pos": "L",
+              "gp": 60,
+              "g": 22,
+              "a": 37,
+              "pts": 59
+            },
+            {
+              "id": 8482105,
+              "name": "Jake Sanderson",
+              "pos": "D",
+              "gp": 67,
+              "g": 14,
+              "a": 40,
+              "pts": 54
+            },
+            {
+              "id": 8473512,
+              "name": "Claude Giroux",
+              "pos": "R",
+              "gp": 82,
+              "g": 14,
+              "a": 35,
+              "pts": 49
+            },
+            {
+              "id": 8481596,
+              "name": "Shane Pinto",
+              "pos": "C",
+              "gp": 72,
+              "g": 23,
+              "a": 23,
+              "pts": 46
+            },
+            {
+              "id": 8478020,
+              "name": "Michael Amadio",
+              "pos": "R",
+              "gp": 81,
+              "g": 15,
+              "a": 20,
+              "pts": 35
+            },
+            {
+              "id": 8482092,
+              "name": "Ridly Greig",
+              "pos": "C",
+              "gp": 77,
+              "g": 13,
+              "a": 22,
+              "pts": 35
+            },
+            {
+              "id": 8480188,
+              "name": "Fabian Zetterlund",
+              "pos": "L",
+              "gp": 82,
+              "g": 17,
+              "a": 16,
+              "pts": 33
+            },
+            {
+              "id": 8481606,
+              "name": "Jordan Spence",
+              "pos": "D",
+              "gp": 73,
+              "g": 7,
+              "a": 24,
+              "pts": 31
+            },
+            {
+              "id": 8478469,
+              "name": "Thomas Chabot",
+              "pos": "D",
+              "gp": 57,
+              "g": 7,
+              "a": 24,
+              "pts": 31
+            },
+            {
+              "id": 8482245,
+              "name": "Artem Zub",
+              "pos": "D",
+              "gp": 81,
+              "g": 5,
+              "a": 25,
+              "pts": 30
+            },
+            {
+              "id": 8476393,
+              "name": "Nick Cousins",
+              "pos": "C",
+              "gp": 81,
+              "g": 9,
+              "a": 14,
+              "pts": 23
+            },
+            {
+              "id": 8482095,
+              "name": "Tyler Kleven",
+              "pos": "D",
+              "gp": 70,
+              "g": 3,
+              "a": 15,
+              "pts": 18
+            },
+            {
+              "id": 8477998,
+              "name": "Warren Foegele",
+              "pos": "L",
+              "gp": 68,
+              "g": 13,
+              "a": 4,
+              "pts": 17
+            },
+            {
+              "id": 8475324,
+              "name": "Nick Jensen",
+              "pos": "D",
+              "gp": 61,
+              "g": 4,
+              "a": 13,
+              "pts": 17
+            },
+            {
+              "id": 8474189,
+              "name": "Lars Eller",
+              "pos": "C",
+              "gp": 68,
+              "g": 5,
+              "a": 10,
+              "pts": 15
+            },
+            {
+              "id": 8483676,
+              "name": "Stephen Halliday",
+              "pos": "C",
+              "gp": 30,
+              "g": 4,
+              "a": 7,
+              "pts": 11
+            },
+            {
+              "id": 8484321,
+              "name": "Nikolas Matinpalo",
+              "pos": "D",
+              "gp": 50,
+              "g": 0,
+              "a": 5,
+              "pts": 5
+            },
+            {
+              "id": 8481575,
+              "name": "Lassi Thomson",
+              "pos": "D",
+              "gp": 11,
+              "g": 0,
+              "a": 3,
+              "pts": 3
+            },
+            {
+              "id": 8484759,
+              "name": "Carter Yakemchuk",
+              "pos": "D",
+              "gp": 4,
+              "g": 1,
+              "a": 1,
+              "pts": 2
+            },
+            {
+              "id": 8480245,
+              "name": "Olle Lycksell",
+              "pos": "R",
+              "gp": 7,
+              "g": 1,
+              "a": 1,
+              "pts": 2
+            },
+            {
+              "id": 8481560,
+              "name": "Arthur Kaliyev",
+              "pos": "R",
+              "gp": 2,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8480075,
+              "name": "Cameron Crotty",
+              "pos": "D",
+              "gp": 6,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8478502,
+              "name": "Dennis Gilbert",
+              "pos": "D",
+              "gp": 8,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8477073,
+              "name": "Kurtis MacDermid",
+              "pos": "L",
+              "gp": 19,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8476999,
+              "name": "Linus Ullmark",
+              "pos": "G",
+              "gp": 49,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8478173,
+              "name": "Hayden Hodgson",
+              "pos": "R",
+              "gp": 10,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8473503,
+              "name": "James Reimer",
+              "pos": "G",
+              "gp": 14,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8483435,
+              "name": "Jorian Donovan",
+              "pos": "D",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482447,
+              "name": "Leevi Meriläinen",
+              "pos": "G",
+              "gp": 20,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481544,
+              "name": "Mads Sogaard",
+              "pos": "G",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482673,
+              "name": "Xavier Bourgault",
+              "pos": "R",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "label": "Series D",
+      "teams": [
+        {
+          "abbrev": "PIT",
+          "name": "Pittsburgh Penguins",
+          "seed": "D2",
+          "players": [
+            {
+              "id": 8471675,
+              "name": "Sidney Crosby",
+              "pos": "C",
+              "gp": 68,
+              "g": 29,
+              "a": 45,
+              "pts": 74
+            },
+            {
+              "id": 8474578,
+              "name": "Erik Karlsson",
+              "pos": "D",
+              "gp": 75,
+              "g": 15,
+              "a": 51,
+              "pts": 66
+            },
+            {
+              "id": 8475810,
+              "name": "Bryan Rust",
+              "pos": "R",
+              "gp": 72,
+              "g": 29,
+              "a": 36,
+              "pts": 65
+            },
+            {
+              "id": 8477511,
+              "name": "Anthony Mantha",
+              "pos": "R",
+              "gp": 81,
+              "g": 33,
+              "a": 31,
+              "pts": 64
+            },
+            {
+              "id": 8471215,
+              "name": "Evgeni Malkin",
+              "pos": "C",
+              "gp": 56,
+              "g": 19,
+              "a": 42,
+              "pts": 61
+            },
+            {
+              "id": 8476483,
+              "name": "Rickard Rakell",
+              "pos": "R",
+              "gp": 60,
+              "g": 24,
+              "a": 24,
+              "pts": 48
+            },
+            {
+              "id": 8482475,
+              "name": "Egor Chinakhov",
+              "pos": "R",
+              "gp": 72,
+              "g": 21,
+              "a": 21,
+              "pts": 42
+            },
+            {
+              "id": 8478438,
+              "name": "Tommy Novak",
+              "pos": "C",
+              "gp": 82,
+              "g": 16,
+              "a": 26,
+              "pts": 42
+            },
+            {
+              "id": 8485414,
+              "name": "Ben Kindel",
+              "pos": "C",
+              "gp": 77,
+              "g": 17,
+              "a": 18,
+              "pts": 35
+            },
+            {
+              "id": 8478854,
+              "name": "Ryan Shea",
+              "pos": "D",
+              "gp": 80,
+              "g": 6,
+              "a": 29,
+              "pts": 35
+            },
+            {
+              "id": 8479638,
+              "name": "Justin Brazeau",
+              "pos": "R",
+              "gp": 64,
+              "g": 17,
+              "a": 17,
+              "pts": 34
+            },
+            {
+              "id": 8471724,
+              "name": "Kris Letang",
+              "pos": "D",
+              "gp": 74,
+              "g": 3,
+              "a": 31,
+              "pts": 34
+            },
+            {
+              "id": 8480980,
+              "name": "Connor Dewar",
+              "pos": "C",
+              "gp": 78,
+              "g": 14,
+              "a": 16,
+              "pts": 30
+            },
+            {
+              "id": 8478450,
+              "name": "Parker Wotherspoon",
+              "pos": "D",
+              "gp": 80,
+              "g": 3,
+              "a": 27,
+              "pts": 30
+            },
+            {
+              "id": 8478569,
+              "name": "Noel Acciari",
+              "pos": "C",
+              "gp": 67,
+              "g": 13,
+              "a": 12,
+              "pts": 25
+            },
+            {
+              "id": 8481481,
+              "name": "Blake Lizotte",
+              "pos": "C",
+              "gp": 55,
+              "g": 7,
+              "a": 12,
+              "pts": 19
+            },
+            {
+              "id": 8479398,
+              "name": "Samuel Girard",
+              "pos": "D",
+              "gp": 60,
+              "g": 3,
+              "a": 16,
+              "pts": 19
+            },
+            {
+              "id": 8481725,
+              "name": "Elmer Soderblom",
+              "pos": "L",
+              "gp": 59,
+              "g": 7,
+              "a": 6,
+              "pts": 13
+            },
+            {
+              "id": 8475763,
+              "name": "Kevin Hayes",
+              "pos": "R",
+              "gp": 28,
+              "g": 4,
+              "a": 4,
+              "pts": 8
+            },
+            {
+              "id": 8482470,
+              "name": "Ilya Solovyov",
+              "pos": "D",
+              "gp": 30,
+              "g": 1,
+              "a": 7,
+              "pts": 8
+            },
+            {
+              "id": 8482758,
+              "name": "Ville Koivunen",
+              "pos": "R",
+              "gp": 39,
+              "g": 2,
+              "a": 5,
+              "pts": 7
+            },
+            {
+              "id": 8481030,
+              "name": "Jack St. Ivany",
+              "pos": "D",
+              "gp": 20,
+              "g": 0,
+              "a": 7,
+              "pts": 7
+            },
+            {
+              "id": 8483487,
+              "name": "Rutger McGroarty",
+              "pos": "R",
+              "gp": 24,
+              "g": 3,
+              "a": 3,
+              "pts": 6
+            },
+            {
+              "id": 8477365,
+              "name": "Connor Clifton",
+              "pos": "D",
+              "gp": 50,
+              "g": 2,
+              "a": 4,
+              "pts": 6
+            },
+            {
+              "id": 8482993,
+              "name": "Avery Hayes",
+              "pos": "R",
+              "gp": 16,
+              "g": 5,
+              "a": 0,
+              "pts": 5
+            },
+            {
+              "id": 8480842,
+              "name": "Filip Hallander",
+              "pos": "C",
+              "gp": 13,
+              "g": 1,
+              "a": 3,
+              "pts": 4
+            },
+            {
+              "id": 8481668,
+              "name": "Arturs Silovs",
+              "pos": "G",
+              "gp": 39,
+              "g": 0,
+              "a": 3,
+              "pts": 3
+            },
+            {
+              "id": 8484839,
+              "name": "Harrison Brunicke",
+              "pos": "D",
+              "gp": 9,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8477435,
+              "name": "Ryan Graves",
+              "pos": "D",
+              "gp": 22,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8478452,
+              "name": "Caleb Jones",
+              "pos": "D",
+              "gp": 7,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8479533,
+              "name": "Joona Koppanen",
+              "pos": "L",
+              "gp": 13,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8479973,
+              "name": "Stuart Skinner",
+              "pos": "G",
+              "gp": 50,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8478147,
+              "name": "Bokondji Imama",
+              "pos": "L",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8486169,
+              "name": "Jake Livanavage",
+              "pos": "D",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8483503,
+              "name": "Owen Pickering",
+              "pos": "D",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481093,
+              "name": "Rafael Harvey-Pinard",
+              "pos": "L",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8483703,
+              "name": "Sergei Murashov",
+              "pos": "G",
+              "gp": 5,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482698,
+              "name": "Tristan Broz",
+              "pos": "C",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        },
+        {
+          "abbrev": "PHI",
+          "name": "Philadelphia Flyers",
+          "seed": "D3",
+          "players": [
+            {
+              "id": 8478439,
+              "name": "Travis Konecny",
+              "pos": "R",
+              "gp": 77,
+              "g": 27,
+              "a": 41,
+              "pts": 68
+            },
+            {
+              "id": 8481533,
+              "name": "Trevor Zegras",
+              "pos": "C",
+              "gp": 81,
+              "g": 26,
+              "a": 41,
+              "pts": 67
+            },
+            {
+              "id": 8480015,
+              "name": "Owen Tippett",
+              "pos": "R",
+              "gp": 81,
+              "g": 28,
+              "a": 23,
+              "pts": 51
+            },
+            {
+              "id": 8484387,
+              "name": "Matvei Michkov",
+              "pos": "R",
+              "gp": 81,
+              "g": 20,
+              "a": 31,
+              "pts": 51
+            },
+            {
+              "id": 8477989,
+              "name": "Christian Dvorak",
+              "pos": "C",
+              "gp": 80,
+              "g": 18,
+              "a": 33,
+              "pts": 51
+            },
+            {
+              "id": 8480220,
+              "name": "Noah Cates",
+              "pos": "L",
+              "gp": 82,
+              "g": 18,
+              "a": 29,
+              "pts": 47
+            },
+            {
+              "id": 8477948,
+              "name": "Travis Sanheim",
+              "pos": "D",
+              "gp": 81,
+              "g": 11,
+              "a": 26,
+              "pts": 37
+            },
+            {
+              "id": 8476461,
+              "name": "Sean Couturier",
+              "pos": "C",
+              "gp": 78,
+              "g": 12,
+              "a": 24,
+              "pts": 36
+            },
+            {
+              "id": 8482142,
+              "name": "Jamie Drysdale",
+              "pos": "D",
+              "gp": 78,
+              "g": 8,
+              "a": 24,
+              "pts": 32
+            },
+            {
+              "id": 8481546,
+              "name": "Cam York",
+              "pos": "D",
+              "gp": 74,
+              "g": 4,
+              "a": 22,
+              "pts": 26
+            },
+            {
+              "id": 8482159,
+              "name": "Tyson Foerster",
+              "pos": "R",
+              "gp": 29,
+              "g": 13,
+              "a": 4,
+              "pts": 17
+            },
+            {
+              "id": 8484142,
+              "name": "Denver Barkey",
+              "pos": "C",
+              "gp": 43,
+              "g": 5,
+              "a": 12,
+              "pts": 17
+            },
+            {
+              "id": 8483733,
+              "name": "Nikita Grebenkin",
+              "pos": "R",
+              "gp": 55,
+              "g": 4,
+              "a": 10,
+              "pts": 14
+            },
+            {
+              "id": 8477499,
+              "name": "Rasmus Ristolainen",
+              "pos": "D",
+              "gp": 44,
+              "g": 1,
+              "a": 13,
+              "pts": 14
+            },
+            {
+              "id": 8479336,
+              "name": "Carl Grundstrom",
+              "pos": "R",
+              "gp": 47,
+              "g": 9,
+              "a": 4,
+              "pts": 13
+            },
+            {
+              "id": 8482126,
+              "name": "Emil Andrae",
+              "pos": "D",
+              "gp": 61,
+              "g": 2,
+              "a": 11,
+              "pts": 13
+            },
+            {
+              "id": 8476372,
+              "name": "Nick Seeler",
+              "pos": "D",
+              "gp": 80,
+              "g": 4,
+              "a": 6,
+              "pts": 10
+            },
+            {
+              "id": 8485406,
+              "name": "Porter Martone",
+              "pos": "R",
+              "gp": 9,
+              "g": 4,
+              "a": 6,
+              "pts": 10
+            },
+            {
+              "id": 8479022,
+              "name": "Rodrigo Abols",
+              "pos": "C",
+              "gp": 42,
+              "g": 3,
+              "a": 7,
+              "pts": 10
+            },
+            {
+              "id": 8478454,
+              "name": "Noah Juulsen",
+              "pos": "D",
+              "gp": 52,
+              "g": 1,
+              "a": 9,
+              "pts": 10
+            },
+            {
+              "id": 8483731,
+              "name": "Alex Bump",
+              "pos": "L",
+              "gp": 17,
+              "g": 5,
+              "a": 4,
+              "pts": 9
+            },
+            {
+              "id": 8476822,
+              "name": "Luke Glendening",
+              "pos": "C",
+              "gp": 70,
+              "g": 2,
+              "a": 7,
+              "pts": 9
+            },
+            {
+              "id": 8477903,
+              "name": "Garnet Hathaway",
+              "pos": "R",
+              "gp": 66,
+              "g": 1,
+              "a": 2,
+              "pts": 3
+            },
+            {
+              "id": 8484148,
+              "name": "Oliver Bonk",
+              "pos": "D",
+              "gp": 1,
+              "g": 1,
+              "a": 1,
+              "pts": 2
+            },
+            {
+              "id": 8483760,
+              "name": "Hunter McDonald",
+              "pos": "D",
+              "gp": 1,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8481035,
+              "name": "Samuel Ersson",
+              "pos": "G",
+              "gp": 33,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8480874,
+              "name": "Adam Ginning",
+              "pos": "D",
+              "gp": 5,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482783,
+              "name": "Aleksei Kolosov",
+              "pos": "G",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8478409,
+              "name": "Anthony Richard",
+              "pos": "C",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8478435,
+              "name": "Dan Vladar",
+              "pos": "G",
+              "gp": 52,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8483460,
+              "name": "David Jiricek",
+              "pos": "D",
+              "gp": 26,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8475253,
+              "name": "Garrett Wilson",
+              "pos": "L",
+              "gp": 3,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481848,
+              "name": "Jacob Gaucher",
+              "pos": "C",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8484779,
+              "name": "Jett Luchanko",
+              "pos": "C",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8478967,
+              "name": "Lane Pederson",
+              "pos": "C",
+              "gp": 5,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482804,
+              "name": "Ty Murchison",
+              "pos": "D",
+              "gp": 3,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "label": "Series E",
+      "teams": [
+        {
+          "abbrev": "COL",
+          "name": "Colorado Avalanche",
+          "seed": "D1",
+          "players": [
+            {
+              "id": 8477492,
+              "name": "Nathan MacKinnon",
+              "pos": "C",
+              "gp": 80,
+              "g": 53,
+              "a": 74,
+              "pts": 127
+            },
+            {
+              "id": 8480039,
+              "name": "Martin Necas",
+              "pos": "C",
+              "gp": 78,
+              "g": 38,
+              "a": 62,
+              "pts": 100
+            },
+            {
+              "id": 8480069,
+              "name": "Cale Makar",
+              "pos": "D",
+              "gp": 75,
+              "g": 20,
+              "a": 59,
+              "pts": 79
+            },
+            {
+              "id": 8475754,
+              "name": "Brock Nelson",
+              "pos": "C",
+              "gp": 81,
+              "g": 33,
+              "a": 32,
+              "pts": 65
+            },
+            {
+              "id": 8475172,
+              "name": "Nazem Kadri",
+              "pos": "C",
+              "gp": 77,
+              "g": 16,
+              "a": 34,
+              "pts": 50
+            },
+            {
+              "id": 8477501,
+              "name": "Valeri Nichushkin",
+              "pos": "R",
+              "gp": 72,
+              "g": 17,
+              "a": 32,
+              "pts": 49
+            },
+            {
+              "id": 8477476,
+              "name": "Artturi Lehkonen",
+              "pos": "L",
+              "gp": 70,
+              "g": 21,
+              "a": 27,
+              "pts": 48
+            },
+            {
+              "id": 8484258,
+              "name": "Sam Malinski",
+              "pos": "D",
+              "gp": 82,
+              "g": 8,
+              "a": 32,
+              "pts": 40
+            },
+            {
+              "id": 8480448,
+              "name": "Parker Kelly",
+              "pos": "C",
+              "gp": 82,
+              "g": 21,
+              "a": 14,
+              "pts": 35
+            },
+            {
+              "id": 8476455,
+              "name": "Gabriel Landeskog",
+              "pos": "L",
+              "gp": 60,
+              "g": 14,
+              "a": 21,
+              "pts": 35
+            },
+            {
+              "id": 8470613,
+              "name": "Brent Burns",
+              "pos": "D",
+              "gp": 82,
+              "g": 12,
+              "a": 23,
+              "pts": 35
+            },
+            {
+              "id": 8476312,
+              "name": "Josh Manson",
+              "pos": "D",
+              "gp": 79,
+              "g": 5,
+              "a": 26,
+              "pts": 31
+            },
+            {
+              "id": 8480835,
+              "name": "Jack Drury",
+              "pos": "C",
+              "gp": 82,
+              "g": 10,
+              "a": 17,
+              "pts": 27
+            },
+            {
+              "id": 8478462,
+              "name": "Nicolas Roy",
+              "pos": "C",
+              "gp": 74,
+              "g": 8,
+              "a": 17,
+              "pts": 25
+            },
+            {
+              "id": 8479525,
+              "name": "Ross Colton",
+              "pos": "C",
+              "gp": 73,
+              "g": 9,
+              "a": 15,
+              "pts": 24
+            },
+            {
+              "id": 8483565,
+              "name": "Nick Blankenburg",
+              "pos": "D",
+              "gp": 61,
+              "g": 8,
+              "a": 16,
+              "pts": 24
+            },
+            {
+              "id": 8478038,
+              "name": "Devon Toews",
+              "pos": "D",
+              "gp": 68,
+              "g": 3,
+              "a": 21,
+              "pts": 24
+            },
+            {
+              "id": 8484149,
+              "name": "Gavin Brindley",
+              "pos": "C",
+              "gp": 56,
+              "g": 6,
+              "a": 7,
+              "pts": 13
+            },
+            {
+              "id": 8476967,
+              "name": "Brett Kulak",
+              "pos": "D",
+              "gp": 83,
+              "g": 1,
+              "a": 11,
+              "pts": 12
+            },
+            {
+              "id": 8482947,
+              "name": "Zakhar Bardakov",
+              "pos": "C",
+              "gp": 60,
+              "g": 1,
+              "a": 9,
+              "pts": 10
+            },
+            {
+              "id": 8481641,
+              "name": "Joel Kiviranta",
+              "pos": "L",
+              "gp": 51,
+              "g": 3,
+              "a": 6,
+              "pts": 9
+            },
+            {
+              "id": 8482072,
+              "name": "Jack Ahcan",
+              "pos": "D",
+              "gp": 11,
+              "g": 0,
+              "a": 2,
+              "pts": 2
+            },
+            {
+              "id": 8481186,
+              "name": "Logan O'Connor",
+              "pos": "R",
+              "gp": 13,
+              "g": 0,
+              "a": 2,
+              "pts": 2
+            },
+            {
+              "id": 8479718,
+              "name": "Alex Barré-Boulet",
+              "pos": "C",
+              "gp": 2,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8483930,
+              "name": "Ivan Ivan",
+              "pos": "C",
+              "gp": 9,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8479387,
+              "name": "Keaton Middleton",
+              "pos": "D",
+              "gp": 3,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8475809,
+              "name": "Scott Wedgewood",
+              "pos": "G",
+              "gp": 45,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8483039,
+              "name": "Tristen Nielsen",
+              "pos": "C",
+              "gp": 4,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8484255,
+              "name": "Jason Polin",
+              "pos": "R",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8478406,
+              "name": "Mackenzie Blackwood",
+              "pos": "G",
+              "gp": 39,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8476391,
+              "name": "T.J. Tynan",
+              "pos": "C",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482953,
+              "name": "Taylor Makar",
+              "pos": "L",
+              "gp": 12,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481529,
+              "name": "Trent Miner",
+              "pos": "G",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        },
+        {
+          "abbrev": "LAK",
+          "name": "Los Angeles Kings",
+          "seed": "WC2",
+          "players": [
+            {
+              "id": 8478550,
+              "name": "Artemi Panarin",
+              "pos": "L",
+              "gp": 78,
+              "g": 28,
+              "a": 56,
+              "pts": 84
+            },
+            {
+              "id": 8477960,
+              "name": "Adrian Kempe",
+              "pos": "R",
+              "gp": 81,
+              "g": 36,
+              "a": 37,
+              "pts": 73
+            },
+            {
+              "id": 8482124,
+              "name": "Quinton Byfield",
+              "pos": "R",
+              "gp": 79,
+              "g": 24,
+              "a": 25,
+              "pts": 49
+            },
+            {
+              "id": 8482155,
+              "name": "Alex Laferriere",
+              "pos": "R",
+              "gp": 82,
+              "g": 21,
+              "a": 23,
+              "pts": 44
+            },
+            {
+              "id": 8477942,
+              "name": "Kevin Fiala",
+              "pos": "L",
+              "gp": 56,
+              "g": 18,
+              "a": 22,
+              "pts": 40
+            },
+            {
+              "id": 8482730,
+              "name": "Brandt Clarke",
+              "pos": "D",
+              "gp": 82,
+              "g": 8,
+              "a": 32,
+              "pts": 40
+            },
+            {
+              "id": 8471685,
+              "name": "Anze Kopitar",
+              "pos": "C",
+              "gp": 67,
+              "g": 12,
+              "a": 26,
+              "pts": 38
+            },
+            {
+              "id": 8479675,
+              "name": "Trevor Moore",
+              "pos": "L",
+              "gp": 69,
+              "g": 13,
+              "a": 19,
+              "pts": 32
+            },
+            {
+              "id": 8483808,
+              "name": "Andrei Kuzmenko",
+              "pos": "L",
+              "gp": 52,
+              "g": 13,
+              "a": 12,
+              "pts": 25
+            },
+            {
+              "id": 8476469,
+              "name": "Joel Armia",
+              "pos": "R",
+              "gp": 67,
+              "g": 13,
+              "a": 12,
+              "pts": 25
+            },
+            {
+              "id": 8474563,
+              "name": "Drew Doughty",
+              "pos": "D",
+              "gp": 72,
+              "g": 5,
+              "a": 18,
+              "pts": 23
+            },
+            {
+              "id": 8476441,
+              "name": "Joel Edmundson",
+              "pos": "D",
+              "gp": 82,
+              "g": 2,
+              "a": 21,
+              "pts": 23
+            },
+            {
+              "id": 8476872,
+              "name": "Scott Laughton",
+              "pos": "C",
+              "gp": 64,
+              "g": 13,
+              "a": 7,
+              "pts": 20
+            },
+            {
+              "id": 8479998,
+              "name": "Mikey Anderson",
+              "pos": "D",
+              "gp": 80,
+              "g": 4,
+              "a": 16,
+              "pts": 20
+            },
+            {
+              "id": 8475208,
+              "name": "Brian Dumoulin",
+              "pos": "D",
+              "gp": 82,
+              "g": 2,
+              "a": 15,
+              "pts": 17
+            },
+            {
+              "id": 8481532,
+              "name": "Alex Turcotte",
+              "pos": "C",
+              "gp": 62,
+              "g": 3,
+              "a": 11,
+              "pts": 14
+            },
+            {
+              "id": 8478472,
+              "name": "Mathieu Joseph",
+              "pos": "R",
+              "gp": 51,
+              "g": 2,
+              "a": 9,
+              "pts": 11
+            },
+            {
+              "id": 8482726,
+              "name": "Samuel Helenius",
+              "pos": "C",
+              "gp": 53,
+              "g": 5,
+              "a": 4,
+              "pts": 9
+            },
+            {
+              "id": 8482408,
+              "name": "Jeff Malott",
+              "pos": "L",
+              "gp": 58,
+              "g": 3,
+              "a": 6,
+              "pts": 9
+            },
+            {
+              "id": 8476879,
+              "name": "Cody Ceci",
+              "pos": "D",
+              "gp": 82,
+              "g": 1,
+              "a": 8,
+              "pts": 9
+            },
+            {
+              "id": 8483406,
+              "name": "Taylor Ward",
+              "pos": "R",
+              "gp": 36,
+              "g": 3,
+              "a": 4,
+              "pts": 7
+            },
+            {
+              "id": 8483756,
+              "name": "Jared Wright",
+              "pos": "R",
+              "gp": 23,
+              "g": 0,
+              "a": 4,
+              "pts": 4
+            },
+            {
+              "id": 8481732,
+              "name": "Andre Lee",
+              "pos": "L",
+              "gp": 7,
+              "g": 1,
+              "a": 1,
+              "pts": 2
+            },
+            {
+              "id": 8483699,
+              "name": "Angus Booth",
+              "pos": "D",
+              "gp": 1,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8475311,
+              "name": "Darcy Kuemper",
+              "pos": "G",
+              "gp": 50,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8476341,
+              "name": "Anton Forsberg",
+              "pos": "G",
+              "gp": 36,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8479421,
+              "name": "Jacob Moverare",
+              "pos": "D",
+              "gp": 15,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8483675,
+              "name": "Kenny Connors",
+              "pos": "C",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8477831,
+              "name": "Pheonix Copley",
+              "pos": "G",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "label": "Series F",
+      "teams": [
+        {
+          "abbrev": "DAL",
+          "name": "Dallas Stars",
+          "seed": "D2",
+          "players": [
+            {
+              "id": 8480027,
+              "name": "Jason Robertson",
+              "pos": "L",
+              "gp": 82,
+              "g": 45,
+              "a": 51,
+              "pts": 96
+            },
+            {
+              "id": 8482740,
+              "name": "Wyatt Johnston",
+              "pos": "C",
+              "gp": 82,
+              "g": 45,
+              "a": 41,
+              "pts": 86
+            },
+            {
+              "id": 8478420,
+              "name": "Mikko Rantanen",
+              "pos": "R",
+              "gp": 64,
+              "g": 22,
+              "a": 55,
+              "pts": 77
+            },
+            {
+              "id": 8480036,
+              "name": "Miro Heiskanen",
+              "pos": "D",
+              "gp": 77,
+              "g": 9,
+              "a": 54,
+              "pts": 63
+            },
+            {
+              "id": 8475168,
+              "name": "Matt Duchene",
+              "pos": "C",
+              "gp": 57,
+              "g": 16,
+              "a": 29,
+              "pts": 45
+            },
+            {
+              "id": 8478449,
+              "name": "Roope Hintz",
+              "pos": "C",
+              "gp": 53,
+              "g": 15,
+              "a": 29,
+              "pts": 44
+            },
+            {
+              "id": 8482145,
+              "name": "Mavrik Bourque",
+              "pos": "C",
+              "gp": 82,
+              "g": 20,
+              "a": 21,
+              "pts": 41
+            },
+            {
+              "id": 8473994,
+              "name": "Jamie Benn",
+              "pos": "L",
+              "gp": 60,
+              "g": 15,
+              "a": 21,
+              "pts": 36
+            },
+            {
+              "id": 8481581,
+              "name": "Thomas Harley",
+              "pos": "D",
+              "gp": 70,
+              "g": 6,
+              "a": 30,
+              "pts": 36
+            },
+            {
+              "id": 8478047,
+              "name": "Michael Bunting",
+              "pos": "L",
+              "gp": 74,
+              "g": 14,
+              "a": 19,
+              "pts": 33
+            },
+            {
+              "id": 8479351,
+              "name": "Sam Steel",
+              "pos": "C",
+              "gp": 73,
+              "g": 12,
+              "a": 21,
+              "pts": 33
+            },
+            {
+              "id": 8476902,
+              "name": "Esa Lindell",
+              "pos": "D",
+              "gp": 82,
+              "g": 6,
+              "a": 26,
+              "pts": 32
+            },
+            {
+              "id": 8484829,
+              "name": "Justin Hryckowian",
+              "pos": "C",
+              "gp": 81,
+              "g": 14,
+              "a": 16,
+              "pts": 30
+            },
+            {
+              "id": 8475794,
+              "name": "Tyler Seguin",
+              "pos": "C",
+              "gp": 27,
+              "g": 7,
+              "a": 10,
+              "pts": 17
+            },
+            {
+              "id": 8476889,
+              "name": "Radek Faksa",
+              "pos": "C",
+              "gp": 58,
+              "g": 2,
+              "a": 15,
+              "pts": 17
+            },
+            {
+              "id": 8476278,
+              "name": "Colin Blackwell",
+              "pos": "C",
+              "gp": 70,
+              "g": 4,
+              "a": 11,
+              "pts": 15
+            },
+            {
+              "id": 8480840,
+              "name": "Oskar Bäck",
+              "pos": "C",
+              "gp": 72,
+              "g": 5,
+              "a": 7,
+              "pts": 12
+            },
+            {
+              "id": 8480878,
+              "name": "Nils Lundkvist",
+              "pos": "D",
+              "gp": 52,
+              "g": 3,
+              "a": 8,
+              "pts": 11
+            },
+            {
+              "id": 8474574,
+              "name": "Tyler Myers",
+              "pos": "D",
+              "gp": 73,
+              "g": 1,
+              "a": 10,
+              "pts": 11
+            },
+            {
+              "id": 8475755,
+              "name": "Alexander Petrovic",
+              "pos": "D",
+              "gp": 54,
+              "g": 2,
+              "a": 8,
+              "pts": 10
+            },
+            {
+              "id": 8480950,
+              "name": "Ilya Lyubushkin",
+              "pos": "D",
+              "gp": 53,
+              "g": 1,
+              "a": 8,
+              "pts": 9
+            },
+            {
+              "id": 8477454,
+              "name": "Adam Erne",
+              "pos": "L",
+              "gp": 45,
+              "g": 6,
+              "a": 2,
+              "pts": 8
+            },
+            {
+              "id": 8483425,
+              "name": "Lian Bichsel",
+              "pos": "D",
+              "gp": 50,
+              "g": 4,
+              "a": 4,
+              "pts": 8
+            },
+            {
+              "id": 8479414,
+              "name": "Nathan Bastian",
+              "pos": "R",
+              "gp": 36,
+              "g": 6,
+              "a": 1,
+              "pts": 7
+            },
+            {
+              "id": 8484938,
+              "name": "Arttu Hyry",
+              "pos": "R",
+              "gp": 20,
+              "g": 3,
+              "a": 2,
+              "pts": 5
+            },
+            {
+              "id": 8478476,
+              "name": "Kyle Capobianco",
+              "pos": "D",
+              "gp": 33,
+              "g": 2,
+              "a": 3,
+              "pts": 5
+            },
+            {
+              "id": 8481609,
+              "name": "Vladislav Kolyachonok",
+              "pos": "D",
+              "gp": 13,
+              "g": 1,
+              "a": 2,
+              "pts": 3
+            },
+            {
+              "id": 8478888,
+              "name": "Cameron Hughes",
+              "pos": "C",
+              "gp": 3,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8479979,
+              "name": "Jake Oettinger",
+              "pos": "G",
+              "gp": 54,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8479193,
+              "name": "Casey DeSmith",
+              "pos": "G",
+              "gp": 30,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        },
+        {
+          "abbrev": "MIN",
+          "name": "Minnesota Wild",
+          "seed": "D3",
+          "players": [
+            {
+              "id": 8478864,
+              "name": "Kirill Kaprizov",
+              "pos": "L",
+              "gp": 78,
+              "g": 45,
+              "a": 44,
+              "pts": 89
+            },
+            {
+              "id": 8481557,
+              "name": "Matt Boldy",
+              "pos": "L",
+              "gp": 76,
+              "g": 42,
+              "a": 43,
+              "pts": 85
+            },
+            {
+              "id": 8480800,
+              "name": "Quinn Hughes",
+              "pos": "D",
+              "gp": 74,
+              "g": 7,
+              "a": 69,
+              "pts": 76
+            },
+            {
+              "id": 8475692,
+              "name": "Mats Zuccarello",
+              "pos": "R",
+              "gp": 59,
+              "g": 15,
+              "a": 39,
+              "pts": 54
+            },
+            {
+              "id": 8478493,
+              "name": "Joel Eriksson Ek",
+              "pos": "C",
+              "gp": 70,
+              "g": 19,
+              "a": 32,
+              "pts": 51
+            },
+            {
+              "id": 8482122,
+              "name": "Brock Faber",
+              "pos": "D",
+              "gp": 80,
+              "g": 15,
+              "a": 36,
+              "pts": 51
+            },
+            {
+              "id": 8475149,
+              "name": "Marcus Johansson",
+              "pos": "L",
+              "gp": 75,
+              "g": 15,
+              "a": 34,
+              "pts": 49
+            },
+            {
+              "id": 8475765,
+              "name": "Vladimir Tarasenko",
+              "pos": "R",
+              "gp": 75,
+              "g": 23,
+              "a": 24,
+              "pts": 47
+            },
+            {
+              "id": 8477451,
+              "name": "Ryan Hartman",
+              "pos": "R",
+              "gp": 76,
+              "g": 23,
+              "a": 20,
+              "pts": 43
+            },
+            {
+              "id": 8481553,
+              "name": "Bobby Brink",
+              "pos": "R",
+              "gp": 68,
+              "g": 15,
+              "a": 15,
+              "pts": 30
+            },
+            {
+              "id": 8483525,
+              "name": "Danila Yurov",
+              "pos": "R",
+              "gp": 73,
+              "g": 12,
+              "a": 15,
+              "pts": 27
+            },
+            {
+              "id": 8478508,
+              "name": "Yakov Trenin",
+              "pos": "C",
+              "gp": 82,
+              "g": 6,
+              "a": 17,
+              "pts": 23
+            },
+            {
+              "id": 8474716,
+              "name": "Jared Spurgeon",
+              "pos": "D",
+              "gp": 79,
+              "g": 6,
+              "a": 16,
+              "pts": 22
+            },
+            {
+              "id": 8476463,
+              "name": "Jonas Brodin",
+              "pos": "D",
+              "gp": 62,
+              "g": 4,
+              "a": 14,
+              "pts": 18
+            },
+            {
+              "id": 8477446,
+              "name": "Michael McCarron",
+              "pos": "C",
+              "gp": 79,
+              "g": 8,
+              "a": 9,
+              "pts": 17
+            },
+            {
+              "id": 8478136,
+              "name": "Jake Middleton",
+              "pos": "D",
+              "gp": 75,
+              "g": 2,
+              "a": 14,
+              "pts": 16
+            },
+            {
+              "id": 8473422,
+              "name": "Nick Foligno",
+              "pos": "L",
+              "gp": 54,
+              "g": 4,
+              "a": 11,
+              "pts": 15
+            },
+            {
+              "id": 8475220,
+              "name": "Marcus Foligno",
+              "pos": "L",
+              "gp": 56,
+              "g": 8,
+              "a": 5,
+              "pts": 13
+            },
+            {
+              "id": 8481477,
+              "name": "Nico Sturm",
+              "pos": "C",
+              "gp": 49,
+              "g": 5,
+              "a": 6,
+              "pts": 11
+            },
+            {
+              "id": 8473507,
+              "name": "Jeff Petry",
+              "pos": "D",
+              "gp": 67,
+              "g": 0,
+              "a": 9,
+              "pts": 9
+            },
+            {
+              "id": 8474567,
+              "name": "Zach Bogosian",
+              "pos": "D",
+              "gp": 41,
+              "g": 2,
+              "a": 4,
+              "pts": 6
+            },
+            {
+              "id": 8482094,
+              "name": "Daemon Hunt",
+              "pos": "D",
+              "gp": 32,
+              "g": 0,
+              "a": 6,
+              "pts": 6
+            },
+            {
+              "id": 8477952,
+              "name": "Robby Fabbri",
+              "pos": "C",
+              "gp": 21,
+              "g": 2,
+              "a": 3,
+              "pts": 5
+            },
+            {
+              "id": 8480259,
+              "name": "Ben Jones",
+              "pos": "C",
+              "gp": 28,
+              "g": 1,
+              "a": 2,
+              "pts": 3
+            },
+            {
+              "id": 8475752,
+              "name": "Tyler Pitlick",
+              "pos": "C",
+              "gp": 32,
+              "g": 2,
+              "a": 0,
+              "pts": 2
+            },
+            {
+              "id": 8483452,
+              "name": "Hunter Haight",
+              "pos": "C",
+              "gp": 9,
+              "g": 1,
+              "a": 1,
+              "pts": 2
+            },
+            {
+              "id": 8479406,
+              "name": "Filip Gustavsson",
+              "pos": "G",
+              "gp": 50,
+              "g": 0,
+              "a": 2,
+              "pts": 2
+            },
+            {
+              "id": 8477979,
+              "name": "Nicolas Aube-Kubel",
+              "pos": "R",
+              "gp": 6,
+              "g": 0,
+              "a": 2,
+              "pts": 2
+            },
+            {
+              "id": 8482661,
+              "name": "Jesper Wallstedt",
+              "pos": "G",
+              "gp": 35,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8482641,
+              "name": "Matt Kiersted",
+              "pos": "D",
+              "gp": 6,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8482781,
+              "name": "Carson Lambos",
+              "pos": "D",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8483766,
+              "name": "David Spacek",
+              "pos": "D",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8486166,
+              "name": "Viking Gustafsson Nyberg",
+              "pos": "D",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "label": "Series G",
+      "teams": [
+        {
+          "abbrev": "VGK",
+          "name": "Vegas Golden Knights",
+          "seed": "D1",
+          "players": [
+            {
+              "id": 8478403,
+              "name": "Jack Eichel",
+              "pos": "C",
+              "gp": 74,
+              "g": 27,
+              "a": 63,
+              "pts": 90
+            },
+            {
+              "id": 8478483,
+              "name": "Mitch Marner",
+              "pos": "R",
+              "gp": 81,
+              "g": 24,
+              "a": 56,
+              "pts": 80
+            },
+            {
+              "id": 8475913,
+              "name": "Mark Stone",
+              "pos": "R",
+              "gp": 60,
+              "g": 28,
+              "a": 45,
+              "pts": 73
+            },
+            {
+              "id": 8481604,
+              "name": "Pavel Dorofeyev",
+              "pos": "R",
+              "gp": 82,
+              "g": 37,
+              "a": 27,
+              "pts": 64
+            },
+            {
+              "id": 8477964,
+              "name": "Ivan Barbashev",
+              "pos": "L",
+              "gp": 82,
+              "g": 23,
+              "a": 38,
+              "pts": 61
+            },
+            {
+              "id": 8476881,
+              "name": "Tomas Hertl",
+              "pos": "C",
+              "gp": 82,
+              "g": 24,
+              "a": 34,
+              "pts": 58
+            },
+            {
+              "id": 8478397,
+              "name": "Rasmus Andersson",
+              "pos": "D",
+              "gp": 81,
+              "g": 17,
+              "a": 30,
+              "pts": 47
+            },
+            {
+              "id": 8477447,
+              "name": "Shea Theodore",
+              "pos": "D",
+              "gp": 70,
+              "g": 10,
+              "a": 29,
+              "pts": 39
+            },
+            {
+              "id": 8478396,
+              "name": "Noah Hanifin",
+              "pos": "D",
+              "gp": 71,
+              "g": 3,
+              "a": 25,
+              "pts": 28
+            },
+            {
+              "id": 8475191,
+              "name": "Reilly Smith",
+              "pos": "R",
+              "gp": 69,
+              "g": 16,
+              "a": 10,
+              "pts": 26
+            },
+            {
+              "id": 8483890,
+              "name": "Braeden Bowman",
+              "pos": "R",
+              "gp": 54,
+              "g": 8,
+              "a": 18,
+              "pts": 26
+            },
+            {
+              "id": 8479353,
+              "name": "Brett Howden",
+              "pos": "C",
+              "gp": 58,
+              "g": 12,
+              "a": 10,
+              "pts": 22
+            },
+            {
+              "id": 8475343,
+              "name": "Nic Dowd",
+              "pos": "C",
+              "gp": 75,
+              "g": 5,
+              "a": 16,
+              "pts": 21
+            },
+            {
+              "id": 8478434,
+              "name": "Keegan Kolesar",
+              "pos": "R",
+              "gp": 82,
+              "g": 6,
+              "a": 11,
+              "pts": 17
+            },
+            {
+              "id": 8481527,
+              "name": "Kaedan Korczak",
+              "pos": "D",
+              "gp": 78,
+              "g": 3,
+              "a": 13,
+              "pts": 16
+            },
+            {
+              "id": 8477018,
+              "name": "Ben Hutton",
+              "pos": "D",
+              "gp": 55,
+              "g": 6,
+              "a": 9,
+              "pts": 15
+            },
+            {
+              "id": 8478468,
+              "name": "Jeremy Lauzon",
+              "pos": "D",
+              "gp": 68,
+              "g": 1,
+              "a": 12,
+              "pts": 13
+            },
+            {
+              "id": 8482062,
+              "name": "Cole Smith",
+              "pos": "R",
+              "gp": 63,
+              "g": 8,
+              "a": 4,
+              "pts": 12
+            },
+            {
+              "id": 8475188,
+              "name": "Brayden McNabb",
+              "pos": "D",
+              "gp": 63,
+              "g": 5,
+              "a": 7,
+              "pts": 12
+            },
+            {
+              "id": 8476925,
+              "name": "Colton Sissons",
+              "pos": "C",
+              "gp": 66,
+              "g": 6,
+              "a": 5,
+              "pts": 11
+            },
+            {
+              "id": 8482125,
+              "name": "Alexander Holtz",
+              "pos": "R",
+              "gp": 28,
+              "g": 3,
+              "a": 6,
+              "pts": 9
+            },
+            {
+              "id": 8476438,
+              "name": "Brandon Saad",
+              "pos": "L",
+              "gp": 49,
+              "g": 3,
+              "a": 6,
+              "pts": 9
+            },
+            {
+              "id": 8476448,
+              "name": "William Karlsson",
+              "pos": "C",
+              "gp": 14,
+              "g": 4,
+              "a": 3,
+              "pts": 7
+            },
+            {
+              "id": 8479550,
+              "name": "Tanner Laczynski",
+              "pos": "C",
+              "gp": 10,
+              "g": 0,
+              "a": 5,
+              "pts": 5
+            },
+            {
+              "id": 8478499,
+              "name": "Adin Hill",
+              "pos": "G",
+              "gp": 27,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8481033,
+              "name": "Akira Schmid",
+              "pos": "G",
+              "gp": 34,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8480007,
+              "name": "Jonas Rondbjerg",
+              "pos": "R",
+              "gp": 4,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8482761,
+              "name": "Carl Lindbom",
+              "pos": "G",
+              "gp": 8,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8479394,
+              "name": "Carter Hart",
+              "pos": "G",
+              "gp": 18,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8479639,
+              "name": "Dylan Coghlan",
+              "pos": "D",
+              "gp": 3,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8477034,
+              "name": "Jaycob Megna",
+              "pos": "D",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8485251,
+              "name": "Kai Uchacz",
+              "pos": "C",
+              "gp": 3,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8481534,
+              "name": "Raphael Lavoie",
+              "pos": "C",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        },
+        {
+          "abbrev": "UTA",
+          "name": "Utah Mammoth",
+          "seed": "WC1",
+          "players": [
+            {
+              "id": 8479343,
+              "name": "Clayton Keller",
+              "pos": "R",
+              "gp": 82,
+              "g": 26,
+              "a": 62,
+              "pts": 88
+            },
+            {
+              "id": 8477951,
+              "name": "Nick Schmaltz",
+              "pos": "C",
+              "gp": 82,
+              "g": 33,
+              "a": 41,
+              "pts": 74
+            },
+            {
+              "id": 8482699,
+              "name": "Dylan Guenther",
+              "pos": "R",
+              "gp": 79,
+              "g": 40,
+              "a": 33,
+              "pts": 73
+            },
+            {
+              "id": 8479410,
+              "name": "Mikhail Sergachev",
+              "pos": "D",
+              "gp": 78,
+              "g": 10,
+              "a": 49,
+              "pts": 59
+            },
+            {
+              "id": 8482175,
+              "name": "JJ Peterka",
+              "pos": "R",
+              "gp": 82,
+              "g": 25,
+              "a": 22,
+              "pts": 47
+            },
+            {
+              "id": 8478474,
+              "name": "Lawson Crouse",
+              "pos": "L",
+              "gp": 81,
+              "g": 24,
+              "a": 20,
+              "pts": 44
+            },
+            {
+              "id": 8483431,
+              "name": "Logan Cooley",
+              "pos": "C",
+              "gp": 54,
+              "g": 24,
+              "a": 19,
+              "pts": 43
+            },
+            {
+              "id": 8478507,
+              "name": "John Marino",
+              "pos": "D",
+              "gp": 80,
+              "g": 4,
+              "a": 32,
+              "pts": 36
+            },
+            {
+              "id": 8479619,
+              "name": "Michael Carcone",
+              "pos": "L",
+              "gp": 79,
+              "g": 16,
+              "a": 15,
+              "pts": 31
+            },
+            {
+              "id": 8477346,
+              "name": "MacKenzie Weegar",
+              "pos": "D",
+              "gp": 79,
+              "g": 4,
+              "a": 24,
+              "pts": 28
+            },
+            {
+              "id": 8480434,
+              "name": "Sean Durzi",
+              "pos": "D",
+              "gp": 60,
+              "g": 5,
+              "a": 22,
+              "pts": 27
+            },
+            {
+              "id": 8480849,
+              "name": "Barrett Hayton",
+              "pos": "C",
+              "gp": 67,
+              "g": 10,
+              "a": 15,
+              "pts": 25
+            },
+            {
+              "id": 8480855,
+              "name": "Jack McBain",
+              "pos": "C",
+              "gp": 75,
+              "g": 9,
+              "a": 16,
+              "pts": 25
+            },
+            {
+              "id": 8479977,
+              "name": "Kailer Yamamoto",
+              "pos": "R",
+              "gp": 59,
+              "g": 13,
+              "a": 10,
+              "pts": 23
+            },
+            {
+              "id": 8474013,
+              "name": "Ian Cole",
+              "pos": "D",
+              "gp": 82,
+              "g": 3,
+              "a": 20,
+              "pts": 23
+            },
+            {
+              "id": 8477220,
+              "name": "Nate Schmidt",
+              "pos": "D",
+              "gp": 82,
+              "g": 5,
+              "a": 17,
+              "pts": 22
+            },
+            {
+              "id": 8478831,
+              "name": "Kevin Stenlund",
+              "pos": "C",
+              "gp": 80,
+              "g": 4,
+              "a": 14,
+              "pts": 18
+            },
+            {
+              "id": 8477021,
+              "name": "Alexander Kerfoot",
+              "pos": "C",
+              "gp": 34,
+              "g": 7,
+              "a": 6,
+              "pts": 13
+            },
+            {
+              "id": 8480084,
+              "name": "Nick DeSimone",
+              "pos": "D",
+              "gp": 40,
+              "g": 2,
+              "a": 6,
+              "pts": 8
+            },
+            {
+              "id": 8484388,
+              "name": "Daniil But",
+              "pos": "L",
+              "gp": 29,
+              "g": 3,
+              "a": 4,
+              "pts": 7
+            },
+            {
+              "id": 8477070,
+              "name": "Liam O'Brien",
+              "pos": "C",
+              "gp": 38,
+              "g": 3,
+              "a": 1,
+              "pts": 4
+            },
+            {
+              "id": 8479293,
+              "name": "Brandon Tanev",
+              "pos": "L",
+              "gp": 56,
+              "g": 0,
+              "a": 3,
+              "pts": 3
+            },
+            {
+              "id": 8478872,
+              "name": "Karel Vejmelka",
+              "pos": "G",
+              "gp": 64,
+              "g": 0,
+              "a": 2,
+              "pts": 2
+            },
+            {
+              "id": 8479291,
+              "name": "Kevin Rooney",
+              "pos": "C",
+              "gp": 1,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8484386,
+              "name": "Dmitri Simashev",
+              "pos": "D",
+              "gp": 28,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8483472,
+              "name": "Maveric Lamoureux",
+              "pos": "D",
+              "gp": 5,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8477970,
+              "name": "Vitek Vanecek",
+              "pos": "G",
+              "gp": 22,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8475461,
+              "name": "Andrew Agozzino",
+              "pos": "L",
+              "gp": 2,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H",
+      "label": "Series H",
+      "teams": [
+        {
+          "abbrev": "EDM",
+          "name": "Edmonton Oilers",
+          "seed": "D2",
+          "players": [
+            {
+              "id": 8478402,
+              "name": "Connor McDavid",
+              "pos": "C",
+              "gp": 82,
+              "g": 48,
+              "a": 90,
+              "pts": 138
+            },
+            {
+              "id": 8477934,
+              "name": "Leon Draisaitl",
+              "pos": "C",
+              "gp": 65,
+              "g": 35,
+              "a": 62,
+              "pts": 97
+            },
+            {
+              "id": 8480803,
+              "name": "Evan Bouchard",
+              "pos": "D",
+              "gp": 82,
+              "g": 21,
+              "a": 74,
+              "pts": 95
+            },
+            {
+              "id": 8476454,
+              "name": "Ryan Nugent-Hopkins",
+              "pos": "C",
+              "gp": 72,
+              "g": 20,
+              "a": 36,
+              "pts": 56
+            },
+            {
+              "id": 8475786,
+              "name": "Zach Hyman",
+              "pos": "L",
+              "gp": 58,
+              "g": 31,
+              "a": 21,
+              "pts": 52
+            },
+            {
+              "id": 8475218,
+              "name": "Mattias Ekholm",
+              "pos": "D",
+              "gp": 82,
+              "g": 6,
+              "a": 35,
+              "pts": 41
+            },
+            {
+              "id": 8481617,
+              "name": "Vasily Podkolzin",
+              "pos": "R",
+              "gp": 82,
+              "g": 19,
+              "a": 18,
+              "pts": 37
+            },
+            {
+              "id": 8483512,
+              "name": "Matt Savoie",
+              "pos": "C",
+              "gp": 82,
+              "g": 18,
+              "a": 19,
+              "pts": 37
+            },
+            {
+              "id": 8478458,
+              "name": "Jack Roslovic",
+              "pos": "C",
+              "gp": 69,
+              "g": 21,
+              "a": 15,
+              "pts": 36
+            },
+            {
+              "id": 8477498,
+              "name": "Darnell Nurse",
+              "pos": "D",
+              "gp": 82,
+              "g": 7,
+              "a": 17,
+              "pts": 24
+            },
+            {
+              "id": 8478013,
+              "name": "Jake Walman",
+              "pos": "D",
+              "gp": 53,
+              "g": 8,
+              "a": 12,
+              "pts": 20
+            },
+            {
+              "id": 8477953,
+              "name": "Kasperi Kapanen",
+              "pos": "R",
+              "gp": 41,
+              "g": 8,
+              "a": 9,
+              "pts": 17
+            },
+            {
+              "id": 8477450,
+              "name": "Jason Dickinson",
+              "pos": "C",
+              "gp": 64,
+              "g": 7,
+              "a": 10,
+              "pts": 17
+            },
+            {
+              "id": 8476473,
+              "name": "Connor Murphy",
+              "pos": "D",
+              "gp": 80,
+              "g": 5,
+              "a": 12,
+              "pts": 17
+            },
+            {
+              "id": 8474641,
+              "name": "Adam Henrique",
+              "pos": "C",
+              "gp": 65,
+              "g": 3,
+              "a": 12,
+              "pts": 15
+            },
+            {
+              "id": 8482703,
+              "name": "Colton Dach",
+              "pos": "C",
+              "gp": 61,
+              "g": 5,
+              "a": 8,
+              "pts": 13
+            },
+            {
+              "id": 8480834,
+              "name": "Ty Emberson",
+              "pos": "D",
+              "gp": 72,
+              "g": 2,
+              "a": 10,
+              "pts": 12
+            },
+            {
+              "id": 8481056,
+              "name": "Spencer Stastney",
+              "pos": "D",
+              "gp": 66,
+              "g": 2,
+              "a": 8,
+              "pts": 10
+            },
+            {
+              "id": 8477406,
+              "name": "Mattias Janmark",
+              "pos": "C",
+              "gp": 43,
+              "g": 1,
+              "a": 7,
+              "pts": 8
+            },
+            {
+              "id": 8479365,
+              "name": "Trent Frederic",
+              "pos": "C",
+              "gp": 74,
+              "g": 4,
+              "a": 3,
+              "pts": 7
+            },
+            {
+              "id": 8477508,
+              "name": "Curtis Lazar",
+              "pos": "C",
+              "gp": 45,
+              "g": 4,
+              "a": 2,
+              "pts": 6
+            },
+            {
+              "id": 8479368,
+              "name": "Max Jones",
+              "pos": "L",
+              "gp": 21,
+              "g": 3,
+              "a": 2,
+              "pts": 5
+            },
+            {
+              "id": 8483455,
+              "name": "Isaac Howard",
+              "pos": "L",
+              "gp": 29,
+              "g": 2,
+              "a": 3,
+              "pts": 5
+            },
+            {
+              "id": 8484509,
+              "name": "Josh Samanski",
+              "pos": "C",
+              "gp": 24,
+              "g": 2,
+              "a": 2,
+              "pts": 4
+            },
+            {
+              "id": 8480831,
+              "name": "Alec Regula",
+              "pos": "D",
+              "gp": 29,
+              "g": 0,
+              "a": 3,
+              "pts": 3
+            },
+            {
+              "id": 8478971,
+              "name": "Connor Ingram",
+              "pos": "G",
+              "gp": 32,
+              "g": 0,
+              "a": 2,
+              "pts": 2
+            },
+            {
+              "id": 8484529,
+              "name": "Connor Clattenburg",
+              "pos": "C",
+              "gp": 5,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8485511,
+              "name": "Quinn Hutson",
+              "pos": "R",
+              "gp": 4,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8477465,
+              "name": "Tristan Jarry",
+              "pos": "G",
+              "gp": 33,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8475717,
+              "name": "Calvin Pickard",
+              "pos": "G",
+              "gp": 16,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8479388,
+              "name": "Riley Stillman",
+              "pos": "D",
+              "gp": 4,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482162,
+              "name": "Roby Jarventie",
+              "pos": "L",
+              "gp": 3,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        },
+        {
+          "abbrev": "ANA",
+          "name": "Anaheim Ducks",
+          "seed": "D3",
+          "players": [
+            {
+              "id": 8483445,
+              "name": "Cutter Gauthier",
+              "pos": "L",
+              "gp": 76,
+              "g": 41,
+              "a": 28,
+              "pts": 69
+            },
+            {
+              "id": 8484153,
+              "name": "Leo Carlsson",
+              "pos": "C",
+              "gp": 70,
+              "g": 29,
+              "a": 38,
+              "pts": 67
+            },
+            {
+              "id": 8484762,
+              "name": "Beckett Sennecke",
+              "pos": "R",
+              "gp": 82,
+              "g": 23,
+              "a": 37,
+              "pts": 60
+            },
+            {
+              "id": 8474590,
+              "name": "John Carlson",
+              "pos": "D",
+              "gp": 71,
+              "g": 14,
+              "a": 46,
+              "pts": 60
+            },
+            {
+              "id": 8481605,
+              "name": "Jackson LaCombe",
+              "pos": "D",
+              "gp": 82,
+              "g": 10,
+              "a": 48,
+              "pts": 58
+            },
+            {
+              "id": 8478873,
+              "name": "Troy Terry",
+              "pos": "R",
+              "gp": 61,
+              "g": 19,
+              "a": 38,
+              "pts": 57
+            },
+            {
+              "id": 8475184,
+              "name": "Chris Kreider",
+              "pos": "L",
+              "gp": 75,
+              "g": 22,
+              "a": 28,
+              "pts": 50
+            },
+            {
+              "id": 8475798,
+              "name": "Mikael Granlund",
+              "pos": "C",
+              "gp": 58,
+              "g": 19,
+              "a": 22,
+              "pts": 41
+            },
+            {
+              "id": 8482745,
+              "name": "Mason McTavish",
+              "pos": "C",
+              "gp": 75,
+              "g": 17,
+              "a": 24,
+              "pts": 41
+            },
+            {
+              "id": 8480068,
+              "name": "Ryan Poehling",
+              "pos": "C",
+              "gp": 75,
+              "g": 11,
+              "a": 25,
+              "pts": 36
+            },
+            {
+              "id": 8476885,
+              "name": "Jacob Trouba",
+              "pos": "D",
+              "gp": 81,
+              "g": 10,
+              "a": 25,
+              "pts": 35
+            },
+            {
+              "id": 8473986,
+              "name": "Alex Killorn",
+              "pos": "L",
+              "gp": 82,
+              "g": 15,
+              "a": 18,
+              "pts": 33
+            },
+            {
+              "id": 8483490,
+              "name": "Pavel Mintyukov",
+              "pos": "D",
+              "gp": 73,
+              "g": 8,
+              "a": 14,
+              "pts": 22
+            },
+            {
+              "id": 8482803,
+              "name": "Olen Zellweger",
+              "pos": "D",
+              "gp": 76,
+              "g": 7,
+              "a": 15,
+              "pts": 22
+            },
+            {
+              "id": 8481563,
+              "name": "Drew Helleson",
+              "pos": "D",
+              "gp": 60,
+              "g": 2,
+              "a": 13,
+              "pts": 15
+            },
+            {
+              "id": 8477527,
+              "name": "Ross Johnston",
+              "pos": "L",
+              "gp": 62,
+              "g": 3,
+              "a": 11,
+              "pts": 14
+            },
+            {
+              "id": 8475462,
+              "name": "Radko Gudas",
+              "pos": "D",
+              "gp": 56,
+              "g": 2,
+              "a": 11,
+              "pts": 13
+            },
+            {
+              "id": 8482178,
+              "name": "Ian Moore",
+              "pos": "D",
+              "gp": 67,
+              "g": 4,
+              "a": 8,
+              "pts": 12
+            },
+            {
+              "id": 8479705,
+              "name": "Jeffrey Viel",
+              "pos": "L",
+              "gp": 45,
+              "g": 3,
+              "a": 7,
+              "pts": 10
+            },
+            {
+              "id": 8478366,
+              "name": "Frank Vatrano",
+              "pos": "R",
+              "gp": 50,
+              "g": 5,
+              "a": 4,
+              "pts": 9
+            },
+            {
+              "id": 8481754,
+              "name": "Nikita Nesterenko",
+              "pos": "C",
+              "gp": 29,
+              "g": 1,
+              "a": 8,
+              "pts": 9
+            },
+            {
+              "id": 8478424,
+              "name": "Jansen Harkins",
+              "pos": "C",
+              "gp": 44,
+              "g": 3,
+              "a": 5,
+              "pts": 8
+            },
+            {
+              "id": 8485512,
+              "name": "Tim Washe",
+              "pos": "C",
+              "gp": 39,
+              "g": 2,
+              "a": 3,
+              "pts": 5
+            },
+            {
+              "id": 8482118,
+              "name": "Sam Colangelo",
+              "pos": "R",
+              "gp": 9,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8483482,
+              "name": "Tristan Luneau",
+              "pos": "D",
+              "gp": 1,
+              "g": 1,
+              "a": 0,
+              "pts": 1
+            },
+            {
+              "id": 8480843,
+              "name": "Lukas Dostal",
+              "pos": "G",
+              "gp": 56,
+              "g": 0,
+              "a": 1,
+              "pts": 1
+            },
+            {
+              "id": 8483444,
+              "name": "Nathan Gaucher",
+              "pos": "C",
+              "gp": 3,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8475852,
+              "name": "Petr Mrazek",
+              "pos": "G",
+              "gp": 10,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8482731,
+              "name": "Tyson Hinds",
+              "pos": "D",
+              "gp": 6,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8478024,
+              "name": "Ville Husso",
+              "pos": "G",
+              "gp": 20,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            },
+            {
+              "id": 8483746,
+              "name": "Vyacheslav Buteyets",
+              "pos": "G",
+              "gp": 1,
+              "g": 0,
+              "a": 0,
+              "pts": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

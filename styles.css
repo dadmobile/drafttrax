@@ -1,0 +1,181 @@
+:root {
+  --bg: #0f1115;
+  --panel: #171a21;
+  --panel-2: #1e232c;
+  --border: #2a3140;
+  --text: #e7ebf3;
+  --muted: #8892a6;
+  --accent: #3fb984;
+  --accent-soft: rgba(63, 185, 132, 0.18);
+  --danger: #d9534f;
+  --taken-bg: #22272f;
+  --taken-fg: #5a6475;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+}
+
+header {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  grid-template-rows: auto auto;
+  gap: 8px 24px;
+  align-items: center;
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--border);
+  background: var(--panel);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+}
+
+.counters {
+  display: flex;
+  gap: 18px;
+  color: var(--muted);
+}
+.counters b { color: var(--text); font-weight: 600; margin-right: 4px; }
+
+.actions { display: flex; gap: 8px; }
+
+button {
+  background: var(--panel-2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+  font: inherit;
+}
+button:hover { background: #262c37; }
+button.danger { border-color: #6a2e2e; color: #f2b6b4; }
+button.danger:hover { background: #3a2222; }
+
+.hint {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.chip {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  vertical-align: 1px;
+}
+.chip.taken { background: var(--taken-bg); color: var(--taken-fg); text-decoration: line-through; }
+.chip.mine { background: var(--accent-soft); color: var(--accent); }
+
+main#board {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  padding: 16px 20px 80px;
+}
+@media (min-width: 1400px) {
+  main#board { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+@media (max-width: 800px) {
+  main#board { grid-template-columns: 1fr; }
+}
+
+.series {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.series header.series-head {
+  display: block;
+  padding: 8px 12px;
+  font-size: 12px;
+  color: var(--muted);
+  background: var(--panel-2);
+  border-bottom: 1px solid var(--border);
+  position: static;
+  grid-template-columns: none;
+}
+
+.series-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+}
+@media (max-width: 560px) {
+  .series-body { grid-template-columns: 1fr; }
+}
+
+.team {
+  border-right: 1px solid var(--border);
+}
+.team:last-child { border-right: 0; }
+
+.team h3 {
+  margin: 0;
+  padding: 6px 10px;
+  font-size: 13px;
+  font-weight: 600;
+  background: var(--panel-2);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+}
+.team h3 .seed { font-size: 10px; color: var(--muted); font-weight: 500; }
+
+table.roster {
+  width: 100%;
+  border-collapse: collapse;
+  font-variant-numeric: tabular-nums;
+}
+table.roster th, table.roster td {
+  padding: 3px 6px;
+  text-align: right;
+  white-space: nowrap;
+  font-size: 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+table.roster th {
+  font-weight: 500;
+  color: var(--muted);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  background: rgba(0,0,0,0.15);
+}
+table.roster td.pos, table.roster th.pos { text-align: center; width: 28px; color: var(--muted); }
+table.roster td.name, table.roster th.name { text-align: left; width: auto; }
+
+table.roster tbody tr {
+  cursor: pointer;
+  user-select: none;
+}
+table.roster tbody tr:hover td { background: rgba(255,255,255,0.03); }
+
+tr.state-1 td {
+  color: var(--taken-fg);
+  text-decoration: line-through;
+  background: var(--taken-bg);
+}
+tr.state-2 td {
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 600;
+}

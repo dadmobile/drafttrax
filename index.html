@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DraftTrax — NHL Playoff Pool</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>DraftTrax</h1>
+      <div class="counters" id="counters">
+        <span><b id="count-mine">0</b> mine</span>
+        <span><b id="count-taken">0</b> taken</span>
+        <span><b id="count-remaining">0</b> remaining</span>
+      </div>
+      <div class="actions">
+        <button id="btn-undo" title="Undo (Cmd/Ctrl+Z)">Undo</button>
+        <button id="btn-reset" class="danger" title="Clear all picks">Reset</button>
+      </div>
+      <p class="hint">
+        Left-click to cycle <span class="chip taken">taken</span> →
+        <span class="chip mine">mine</span>. Right-click or Shift+click to
+        reverse. State auto-saves.
+      </p>
+    </header>
+    <main id="board" aria-live="polite">Loading…</main>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
